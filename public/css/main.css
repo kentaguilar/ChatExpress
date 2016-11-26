@@ -1,0 +1,18 @@
+.title{
+	font-weight:bold;
+	margin-top:10px;		
+}
+.message{
+	background-color:#000;
+	padding:20px;
+	color:lime;
+}
+.sender{
+	color:yellow;
+}
+textarea{
+	width:98%;
+}
+.row-padding{
+	padding-top:100px
+}
