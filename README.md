@@ -1,6 +1,6 @@
 # Menthol Chat
 
-**Conventional chat app allowing you to message to everyone and in private.**
+**Easy to use chat app**
 
 ## Usage
  - After running "node index.js" on the app folder, simply access "http://localhost:3000?user=myusername".
