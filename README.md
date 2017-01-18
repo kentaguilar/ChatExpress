@@ -1,4 +1,4 @@
-# Menthol Chat
+# Chat Express
 
 **Easy to use chat app**
 
